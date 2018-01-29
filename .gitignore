@@ -1,2 +1,5 @@
 node_modules
 bower_components
+.DS_Store
+img/.DS_Store
+img/team/.DS_Store
